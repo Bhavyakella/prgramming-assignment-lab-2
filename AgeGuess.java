@@ -18,7 +18,7 @@ public class AgeGuess {
 			int age;
 			String ageGuess;
 			
-            Random random = new Random();
+               		Random random = new Random();
 			
 			age = random.nextInt(10);
 			
