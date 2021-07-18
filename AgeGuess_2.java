@@ -1,4 +1,4 @@
-/*Bhavya kellla
+/*Bhavya kella
  Programming fundamentals
  Summer
  Programming Assignment lab 2
